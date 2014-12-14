@@ -1,0 +1,1 @@
+Här läggs gemensam information på svenska.
