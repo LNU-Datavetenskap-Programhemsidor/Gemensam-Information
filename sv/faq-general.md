@@ -10,7 +10,7 @@ Vill man komma och besöka oss i Kalmar och exempelvis delta på föreläsningar
 
 **_Q: Vad ska jag göra om jag inte kan delta på första välkomstträffen?_**
 
-**A:** Det är inga problem då all information spelas in. Du hittar den på sidan [Introduktion till programmet](/student/introduktion-till-programmet). Se till att titta igenom informationen som kommer upp där samma dag som välkomnandet eller dagen efter. Har du frågor efter att du tittat igenom all information kan du [kontakta programansvarig](/kontakt/).
+**A:** Det är inga problem då all information spelas in. Du hittar den på sidan [Introduktion till programmet](../../student/introduktion-till-programmet). Se till att titta igenom informationen som kommer upp där samma dag som välkomnandet eller dagen efter. Har du frågor efter att du tittat igenom all information kan du [kontakta programansvarig](../../kontakt/).
 
 ---
 
