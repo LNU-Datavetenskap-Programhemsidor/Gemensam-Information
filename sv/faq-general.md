@@ -20,6 +20,12 @@ Vill man komma och besöka oss i Kalmar och exempelvis delta på föreläsningar
 
 ---
 
+**_Q: Om man läser på distans, finns det obligatoriska delar som kräver att man är online en viss tid och hur många sådana tillfällen är det?_**
+
+**A:** Ja, utbildning går endast dagtid vilkent betyder att föreläsningar, examination och handledning edast besdrivs under arbetstid. Antalet obligatorsiaka tillfällen variera mellan olika kurser men ca. 5-10 gånger per kurs.
+
+---
+
 **_Q: Går det att söka utbildningen med start vårtermin?_**
 
 **A:** Nej, utbildningen har enbart höstintag.
