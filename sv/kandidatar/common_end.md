@@ -1,6 +1,6 @@
 ##Ansökan
 
-Information om ansökning till HT2015 kommer att publiceras.
+Du ansöker genom att under perioden 15/3-15/4 söka till programmet "Påbyggnadsutbildning inom datavetenskap, kandidatexamen"via antagning.se
 
 ##Informationspass
 
