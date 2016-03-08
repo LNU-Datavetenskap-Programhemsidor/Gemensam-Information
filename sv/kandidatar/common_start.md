@@ -12,6 +12,6 @@ samt tillägg i den lokala examensordningen:
 
 * minst 30hp ska utgöras av kurser utanför huvudområdet.
 
-_Källa: [Lokal examensförordning](http://lnu.se/polopoly_fs/1.21689!Lokal%20examensordning.pdf)_
+_Källa: [Lokal examensförordning](http://lnu.se/polopoly_fs/1.86872!Lokal%20examensordning%20f%C3%B6r%20Linn%C3%A9universitetet,%20revidering%202012.pdf)_
 
 Med det kursupplägg som presenteras nedan så bör du om du följt utbildningsplanen för ditt program kunna ansöka om en kandidatexamen efter kompletteringsåret. Du bör dock alltid själv kontrollera så att du uppfyller examenskraven ovan. Detta är speciellt viktigt om du exempelvis bytt ut kurser tidigare.
