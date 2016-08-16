@@ -19,4 +19,4 @@ Nedanstående är det kursupplägg som gäller för påbyggnadsåret läsåret h
 ###Läsperiod 4
 
 * [2DV50E Examensarbete (Kandidat-nivå)](https://coursepress.lnu.se/kurs/examensarbete-pa-kandidatniva/), 15 hp (obligatorisk,  halvfart)
-* 1FE465 Entreprenörsskap och grundläggande affärsutveckling 7,5hp (obligatorisk)
+* 1FE466 Entreprenörsskap och grundläggande affärsutveckling 7,5hp (obligatorisk)
