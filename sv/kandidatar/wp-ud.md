@@ -9,7 +9,7 @@ Nedanstående är det kursupplägg som gäller för påbyggnadsåret läsåret h
 ###Läsperiod 2
 
 * [2DV515 Web intelligence, 7,5 hp](//coursepress.lnu.se/kurs/web-intelligence/)
-* 2DV612 Praktisk agil systemutveckling 7,5hp
+* 2DV612 Praktisk agil systemutveckling (obligatorisk) 7,5hp
 
 ###Läsperiod 3
 
