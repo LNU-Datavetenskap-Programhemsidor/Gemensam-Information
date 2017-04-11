@@ -4,7 +4,7 @@ Du ansöker genom att under perioden 15/3-15/4 söka till programmet ["Påbyggn
 
 ##Informationspass
 
-Informationspass den 8/3 klockan 13.15 i Ny105/http://connect.sunet.se/webbprogrammerare
+Inspelning av information 2016 [https://connect.sunet.se/p9e5zrnwnl9/](https://connect.sunet.se/p9e5zrnwnl9/)
 
 ##Frågor
 
