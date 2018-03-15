@@ -8,4 +8,4 @@ Du ansöker genom att under perioden 15/3-15/4 söka till programmet ["Påbyggn
 
 ## Frågor
 
-Personliga frågor besvaras av jesper.andersson@lnu.se
+Personliga frågor besvaras av johan.leitet@lnu.se
