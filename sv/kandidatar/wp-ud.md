@@ -1,5 +1,5 @@
 ## Kursupplägg
-Nedanstående är det kursupplägg som gäller för påbyggnadsåret läsåret ht2017/vt2018.
+Nedanstående är det kursupplägg som gäller för påbyggnadsåret läsåret ht2019/vt2020.
 
 ###Läsperiod 1
 
