@@ -1,4 +1,4 @@
-Du som sökt in till den tvååriga varianten av utbildningen har ändå möjlighet att läsa upp till en kandidatexamen (3 år) genom den [påbyggnadsutbildning för kandidatexamen](http://lnu.se/utbildning/program/NGDVK) som erbjuds. För att göra detta krävs ett antal specifika kurser inom datavetenskap, men det finns också möjlighet till valbarhet utöver detta. 
+Du som sökt in till den tvååriga varianten av utbildningen har ändå möjlighet att läsa upp till en kandidatexamen (3 år) genom den [påbyggnadsutbildning för kandidatexamen](https://lnu.se/program/pabyggnadsutbildning-inom-datavetenskap-kandidatexamen/) som erbjuds. För att göra detta krävs ett antal specifika kurser inom datavetenskap, men det finns också möjlighet till valbarhet utöver detta. 
 
 ## Examensordning, kandidatexamen
 I examensordningen finns det beskrivet vad som krävs för att få en kandidatexamen inom ett ämne. För filosofie kandidatexamen i datavetenskap krävs:
@@ -12,6 +12,6 @@ samt tillägg i den lokala examensordningen:
 
 * minst 30hp ska utgöras av kurser utanför huvudområdet.
 
-_Källa: [Lokal examensförordning](http://lnu.se/polopoly_fs/1.86872!Lokal%20examensordning%20f%C3%B6r%20Linn%C3%A9universitetet,%20revidering%202012.pdf)_
+Källa: [Lokal examensförordning](https://lnu.se/globalassets/dokument---gemensamma/studerandeavdelningen/examen/lokal-examensordning-for-linneuniversitetet.pdf)
 
 Med det kursupplägg som presenteras nedan så bör du om du följt utbildningsplanen för ditt program kunna ansöka om en kandidatexamen efter kompletteringsåret. Du bör dock alltid själv kontrollera så att du uppfyller examenskraven ovan. Detta är speciellt viktigt om du exempelvis bytt ut kurser tidigare.
